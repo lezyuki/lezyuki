@@ -20,9 +20,9 @@ Me formei em Desenvolvimento Web pelo IOS (Instituto da Oportunidade Social) e a
 
 ### 📱Contato
 <div style="display": inline_block>
-<a href="https://www.instagram.com/mitsorry7/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-kameoka-5014182a1/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<img align="right" width="150px" src="./assets/img/ezgif.com-animated-gif-maker.gif">
+<a href="https://www.instagram.com/_lezyuki/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+<a href="https://www.linkedin.com/in/leandro-luiz-07989b233/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img align="right" gap="5px" width="150px" src="./assets/img/ezgif.com-animated-gif-maker.gif">
 </div>
 
 ##
