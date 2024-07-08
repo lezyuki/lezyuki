@@ -9,8 +9,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=castelarxxx&show_icons=true&count_private=true&hide_border=true&title_color=8B008B&icon_color=8B008B&text_color=c9d1d9&bg_color=0d1117" alt="Hilary Castelar github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castelarxxx&layout=compact&hide_border=true&title_color=8B008B&text_color=8B008B&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lezyuki&show_icons=true&count_private=true&hide_border=true&title_color=40e0d0&icon_color=40e0d0&text_color=c9d1d9&bg_color=0d1117" alt="Leandro Luiz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lezyuki&layout=compact&hide_border=true&title_color=8B008B&text_color=8B008B&bg_color=0d1117" />
 </div>
 
 
