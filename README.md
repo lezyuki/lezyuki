@@ -40,17 +40,11 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{castelarxxx}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lezyuki}/count.svg" /></p> 
 <br>
 </div>
 
 
-[![Hilary Castelar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=castelarxxx&bg_color=ffffff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/castelarxxx/github-readme-activity-graph)
-
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=footer"/>
 
 
 
