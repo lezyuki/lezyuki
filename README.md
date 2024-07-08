@@ -1,29 +1,57 @@
-### 👋Olá meu nome é Leandro Luiz👋
 
-Me formei em Desenvolvimento Web pelo IOS (Instituto da Oportunidade Social) e atualmente estudo Engenharia da Computação, com foco em aprofundar meus conhecimentos em front-end/back-end.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=header"/>
 
-##
-<div style="display": inline_block>
-<img height="" width="460px" src="https://github-readme-stats.vercel.app/api?username=lezyuki&theme=kacho_ga&show_icons=true"/>
-<img height="" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lezyuki&theme=kacho_ga&layout=compact"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Leandro+Luiz;Eu+tenho+20+anos;Sou+estudante+de+Engenharia+da+Computação;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+
+
+
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=castelarxxx&show_icons=true&count_private=true&hide_border=true&title_color=8B008B&icon_color=8B008B&text_color=c9d1d9&bg_color=0d1117" alt="Hilary Castelar github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castelarxxx&layout=compact&hide_border=true&title_color=8B008B&text_color=8B008B&bg_color=0d1117" />
 </div>
 
-##
 
-### ⚒️Skills
-<div style="display": inline_block><br>
-<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<div align="center"> 
 
-##
 
-### 📱Contato
-<div style="display": inline_block>
-<a href="https://www.instagram.com/_lezyuki/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
-<a href="https://www.linkedin.com/in/leandro-luiz-07989b233/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<img align="right" gap="5px" width="150px" src="./assets/img/ezgif.com-animated-gif-maker.gif">
+<a href="https://www.linkedin.com/in/hilary-castelar-b04666225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=castelarxxx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+# Skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+
+# Interesses de estudo:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{castelarxxx}/count.svg" /></p> 
+<br>
 </div>
 
-##
-##
+
+[![Hilary Castelar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=castelarxxx&bg_color=ffffff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/castelarxxx/github-readme-activity-graph)
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=footer"/>
+
+
+
+
