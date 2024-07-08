@@ -1,4 +1,4 @@
-### 👋Olá mundo!! Meu nome é Leandro Luiz👋
+### 👋Olá meu nome é Leandro Luiz👋
 
 Me formei em Desenvolvimento Web pelo IOS (Instituto da Oportunidade Social) e atualmente estudo Engenharia da Computação, com foco em aprofundar meus conhecimentos em front-end/back-end.
 
