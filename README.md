@@ -1,7 +1,7 @@
 # 👋 Olá Seja bem-vindo, eu sou Leandro Luiz!
 
 💻 Programador iniciante apaixonado por tecnologia e desenvolvimento de software.  
-🚀 Sempre aprendendo e buscando evoluir como desenvolvedor.
+  - Sempre aprendendo e buscando evoluir como desenvolvedor.
 
 ---
 
